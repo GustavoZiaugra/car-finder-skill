@@ -1,0 +1,20 @@
+[
+  {
+    "source": "webmotors",
+    "title": "Honda Civic Touring 2.0 16V Flex Aut. 2021",
+    "price": 85000,
+    "price_text": "R$ 85.000",
+    "year": 2021,
+    "url": "https://example.com/car1",
+    "scraped_at": "2026-02-10T14:30:00.000Z"
+  },
+  {
+    "source": "webmotors",
+    "title": "Honda Civic EXL 1.8 16V Flex Aut. 2020",
+    "price": 78000,
+    "price_text": "R$ 78.000",
+    "year": 2020,
+    "url": "https://example.com/car2",
+    "scraped_at": "2026-02-10T14:30:00.000Z"
+  }
+]
